@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Malignant Connection"
-tag :  "Philosophy"
+tag :  "Social,Philosophy"
 ---
 
 # Malignant Connection
