@@ -16,7 +16,7 @@ Why do people seem to be more manipulative nowadays? Is it just me realizing it,
 
 Modern people feel that, due to a friendship, they are owed something. People take the phrase “Do unto others as you would have them do unto you,” expecting it to be reciprocated. People give only to receive in this transactional society we live in. People no longer give to others just for the sake of giving and helping; they do it for the superficial title or the congratulations they are given. They are not selfless — and if they are selfless, they are selfishly selfless.  
 
-Why, in modern times, do people feel it is their obligation to prescribe their ideal way of living — their idealistic manifestos, or their pillars of civilization — that they force upon others, believing those who do not follow it are sacrilegious? I believe that if one does not follow the prescribed moral code that you have set in stone for them, then they are as good as dead.  
+Why, in modern times, do people feel it is their obligation to prescribe their ideal way of living — their idealistic manifestos, or their pillars of civilization — that they force upon others, believing those who do not follow it are sacrilegious? They believe that if one does not follow the prescribed moral code that you have set in stone for them, then they are as good as dead.  
 
 How do we feel offended when somebody keeps to themselves? It's not as if these people are bad people. These people do caring things. They help others. They want to be loved, and they want to give love as they do to other people. But it's with this subconscious manipulative way that they go about it — where they feel entitled to this love for giving attention, or expect one to die in battle for them because they bought them coffee.  
 
