@@ -14,4 +14,8 @@ IL2CPP adds an extra layer of abstraction to this where the the IL of these appl
 How do we get the types from these two files? Well a few tools exist to do just this, [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) a tool that produces *dummy dlls* which have attributes to point to their offsets in the gameassembly binary, and (Il2CppInterop)[https://github.com/BepInEx/Il2CppInterop] a tool to take these dummy dlls and fill their bodies with scaffolding for the bepinex modloader.
 
 But how do we find out what these type truly are? Real answer: there is no way to perfectly know what a type was named before hand(unless it's a very poorly made obfuscation library). 
-If you're extremely lucky unity [AddComponentMenu("Menu Name/SubMenu Name")] custom attributes won't be stripped. (Keep in mind that il2cpp interop does strip these in its dummy dlls)
+If you're extremely lucky unity [AddComponentMenu("Menu Name/SubMenu Name")] custom attributes won't be stripped. (Keep in mind that il2cpp interop does strip these in its dummy dlls) More often then not it won't be as easy as that.
+
+We have other options luckily, the next place I will usually check is GameObject names using [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) or if that isn't an option i will look at static objects in the scene files using [UABEA](https://github.com/nesrak1/UABEA) a unity asset bundle extractor/viewer. More often then not the GameObjects a MonoBehaviour is attached to gives away its purpose, such as an object called LocomotionManager will most likely hold MonoBehaviours to do with movement. Some developers have realized this and have tools to randomize GameObject names on ship, but if they haven't it is a very powerful clue.
+
+
